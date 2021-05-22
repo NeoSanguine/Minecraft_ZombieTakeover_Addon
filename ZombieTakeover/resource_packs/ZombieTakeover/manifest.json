@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Spawn into a world of terror as you face down hordes of fast moving ultra zombies. Creepers and Skeletons rarely spawn, and zombies have a chance to spawn in large packs.",
+      "name": "Zombie Takeover",
+      "uuid": "e8e081f9-b1c6-42a0-ac72-94904d8632cc",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+      {
+        "description": "Zombie Takeover Resource Pack",
+        "type": "resources",
+        "uuid": "b470b73a-6ef1-489d-bd24-7b392b3ff997",
+        "version": [1, 0, 0]
+      }
+    ]
+  }
