@@ -8,7 +8,7 @@
 - Faster Zombies
 - New Zombie Type
 - Incrased zombie spawns at night.
-- Skellingtons and creepers no longer spawn (monster specific drops are now added to the zombie drop table)
+- Skeletons and creepers no longer spawn (monster specific drops are now added to the zombie drop table)
 
 # Version Supported
 1.16.221
